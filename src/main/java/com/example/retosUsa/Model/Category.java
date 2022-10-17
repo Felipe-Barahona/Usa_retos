@@ -1,4 +1,4 @@
-package com.example.retosUsa.Model;
+package com.example.retosUsa.Repository.CrudRepository.Model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
