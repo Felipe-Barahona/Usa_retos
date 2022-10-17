@@ -1,4 +1,4 @@
-package com.example.retosUsa.Repository.CrudRepository.Model;
+package com.example.retosUsa.Model;
 
 import javax.persistence.*;
 
